@@ -108,6 +108,12 @@ h2:after {
   font-size: 90%;
   line-height: 130%;
 }
+
+.event-box1 p {
+ margin: 0.5rem 0.5rem;
+  font-size: 110%;
+  line-height: 130%;
+}
 /* ----- ICONS ----- */
 .icon-big {
   font-size: 350%;
@@ -529,17 +535,17 @@ header {
 }
 
 /* ----------------------------------------------- */
-/* TESTIMONIALS */
+/* section-stories */
 /* ----------------------------------------------- */
 
-.section-testimonials {
+.section-stories {
   background-image: -webkit-linear-gradient(
       rgba(0, 0, 0, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url(img/back-customers-min.jpg);
+    url(img/bg_1.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(img/back-customers-min.jpg);
+    url(img/bg_1.jpg);
   background-size: cover;
   color: #fff;
   background-attachment: fixed;
