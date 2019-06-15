@@ -207,9 +207,6 @@ input[type="submit"]:active {
   height: 30rem;
   width: 44rem;
 }
-.flow-chat {
-  overflow-x: scroll;
-}
 header {
   background-image: -webkit-linear-gradient(
       rgba(68, 68, 68, 0.6),
