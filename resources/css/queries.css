@@ -161,6 +161,9 @@
   section {
     padding: 25px 0;
   }
+  .hero-text-box {
+  font-size: 80%;
+  }
   .contact-form {
     width: 100%;
   }
